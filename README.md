@@ -1,13 +1,10 @@
-# Continuous_control
-
-DDPG to solve the problem of Reacher, single agent
-[//]: # (Image References)
+In this task, I use DDPG algorithm single agent to solve the problem of Reacher Environment of Udacity DeepRLND 
+# Project 2: Continuous Control.
+The base implimentation is from Udacity DeepRLND exericse code: 
+https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
-
-
-# Project 2: Continuous Control
 
 ### Introduction
 
